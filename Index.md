@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<link rel="stylesheet" href="cis475.css">
-	<?php require_once('vars.php');?>
+
+
 	
 	<title><?=$title?></title>
     <meta charset="utf-8">
@@ -30,10 +30,7 @@ echo "Today is " . date("m/d/y") . "<br>";
 echo "The time is " . date("h:i:a");
 ?>
 
-<br><br>
-<a href='../index.html'> HomePage </a>
 
-<br>
 
 </div>
 
